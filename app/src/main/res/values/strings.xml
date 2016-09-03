@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="appName">FirebaseTest</string>
+    <string name="firebaseTestApp">Firebase Test App</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="signIn">Sign in</string>
+    <string name="createFirebaseAccount">Create firebase account</string>
+    <string name="emailErrorText">Please verify your email address!</string>
+    <string name="passwordErrorText">Please verify your password!</string>
+    <string name="loading">Loading…</string>
+    <string name="logOut">Log out</string>
+    <string name="userNameHint">* User name</string>
+    <string name="requiredEmailHint">* Email</string>
+    <string name="nickNameHint">* Nick name</string>
+    <string name="phoneNumberHint">Phone number</string>
+    <string name="birthDateHint">* Birth date</string>
+    <string name="save">Save</string>
+    <string name="dateTemplate">%1$s.%2$s.%3$s</string>
+    <string name="profileSettings">Profile settings</string>
+    <string name="userSettingsWarning">Some fields have been changed. Do you want to discard changes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enterUserNameError">Please enter user name!</string>
+    <string name="enterNickNameError">Please enter nick name!</string>
+    <string name="birthdayError">Please set birth date!</string>
+    <string name="message_no_internet">No internet connection.\nPlease, check your internet connection and try again</string>
+    <string name="retry">Retry</string>
+
+</resources>

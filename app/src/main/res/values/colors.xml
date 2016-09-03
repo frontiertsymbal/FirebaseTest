@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="colorPrimaryLight">#FFECB3</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="splashText">#1d1c23</color>
+    <color name="imageTint">#6F6F6F</color>
+    <color name="progressColor">#ffb700</color>
+    <color name="mainTextColor">#000000</color>
+    <color name="splashProgressTint">#F5820D</color>
+    <color name="cardBackground">#F7F7F7</color>
+
+    <color name="toolbarText">#FFFFFF</color>
+
+
+</resources>

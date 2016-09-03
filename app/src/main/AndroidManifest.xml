@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="brains.mock.firebasetest">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name="brains.mock.firebasetest.FirebaseTestApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/appName"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="brains.mock.firebasetest.ui.activity.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="brains.mock.firebasetest.ui.activity.UserSettingsActivity"
+            android:theme="@style/ActivityBackground"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="brains.mock.firebasetest.ui.activity.LoginActivity"
+            android:theme="@style/ActivityBackground"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="brains.mock.firebasetest.ui.activity.ChatListActivity"
+            android:screenOrientation="portrait"/>
+
+    </application>
+</manifest>

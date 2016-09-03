@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Margin -->
+    <dimen name="marginVerySmall">2dp</dimen>
+    <dimen name="marginSmall">5dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="marginMedium">15dp</dimen>
+    <dimen name="marginBig">20dp</dimen>
+    <dimen name="marginVeryBig">30dp</dimen>
+
+    <dimen name="floatingButtonMargin">16dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="paddingVerySmall">2dp</dimen>
+    <dimen name="paddingSmall">5dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="paddingMedium">15dp</dimen>
+    <dimen name="paddingBig">20dp</dimen>
+    <dimen name="paddingVeryBig">30dp</dimen>
+
+    <!-- Dimens -->
+    <dimen name="splashTextSize">25sp</dimen>
+    <dimen name="progressTextMaxWidth">350dp</dimen>
+    <dimen name="progressTextSize">18sp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="profileTitleTextSize">24sp</dimen>
+
+</resources>
